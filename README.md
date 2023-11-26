@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anuj Potdar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+<div align="center">
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="720" height="340" />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujpotdar2002&label=Profile%20views&color=0e75b6&style=flat" alt="anujpotdar2002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujpotdar2002" alt="anujpotdar2002" /></a> </p>
